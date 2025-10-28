@@ -13,7 +13,7 @@ Quelle est la sortie séquentielle montrée sur l'image :
 ![fcsc2022.png](fcsc2022.png)
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Seven Sins](https://hackropole.fr/fr/challenges/hardware/fcsc2022-hardware-seven-sins/)
 
